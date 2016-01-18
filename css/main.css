@@ -1,0 +1,27 @@
+/* Inserta tu CSS aqui */
+div {
+	background: gray;
+	border:1px black solid;
+	margin: 15px;
+
+}
+
+.caja {
+	width: 100px;
+	height: 100px;
+}
+
+.caja_grande {
+	position: relative;
+    width: 400px;
+    height: 130px;
+}
+
+.uno, .dos, .tres, .cuatro, .cinco {
+	float: left;
+}
+
+.cuatro, .cinco {
+	float: left;
+	position: relative;
+}

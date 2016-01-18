@@ -1,0 +1,21 @@
+.caja {
+	width: 100px;
+	height: 100px;
+	background: gray;
+	border: 2px black solid;
+	margin: 5px;
+	display: inline-block;
+}
+
+.caja_grande{
+	width: 350px;
+	height: 120px;
+	background: gray;
+	border: 2px black solid;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+.ultimo {
+	display: block;
+}
